@@ -89,3 +89,16 @@
     - 14.1 Recap of Design Patterns
     - 14.2 Future Considerations
     - 14.3 Acknowledgments
+   
+##1. Introduction
+### 1.1 Purpose
+The purpose of this document is to provide a comprehensive overview of the design and architecture of the Payment API design.
+
+### 1.2 Scope
+The scope of this document encompasses the design patterns, components, and their interactions within the payment API design.
+
+### 1.3 Background
+In response to the growing demand for a robust and efficient payment processing solution, I embarked on the development of two payment API. The APIs caters to diverse payment types, employs configurable pipelines, and integrates a range of design patterns to ensure flexibility and maintainability. This document explores the foundational aspects of the system, delving into its architecture, key components, and the rationale behind design decisions. Understanding this background is crucial for anyone involved in the development, maintenance, or enhancement of the Payment System.
+
+## 2. Architecture Overview
+
