@@ -12,11 +12,6 @@ import java.util.List;
 
 @Service
 public class PaymentRepository {
-
-    public List<String> getAccountIdentifiers() {
-        return List.of("123456", "678909876", "22627737723");
-    }
-
     public List<PaymentResponseDto> getAllPayment() {
 
         return List.of(
