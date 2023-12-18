@@ -1,5 +1,4 @@
-![structurizr-Container-001](https://github.com/NkanorJ/payment-API/assets/71755372/640f2572-a972-4c98-8f0b-e8927ff47c22)## Payment API Design Documentation
-
+PAYMENT API DOCUMENTATION (DESIGN AND ARCHITECTURE)
 ### Table of Contents
 
 1. **Introduction**
